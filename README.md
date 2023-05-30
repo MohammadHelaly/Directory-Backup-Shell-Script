@@ -15,7 +15,7 @@
         ```
         sudo apt install make
         ```
-        
+
     or
 
         ```
@@ -26,17 +26,23 @@
   - insert the all the files in the parent directory containing the directory you want to backup.
   - make sure you create a dedicated destination directory for the backups in the same parent directory.
   - make the "backup.sh" executable with the following command:
+
         ```
         chmod +x backup.sh
         ```
+
   - run the following command:
+
         ```
         make
         ```
+
   - or you can run the script and specify the arguments directly
+
         ```
         ./backup.sh dir backupdir interval maxbackups
         ```
+        
   - the folllowing arguments are entered:
       1. Path of source directory 
       2. Path of destination directory
