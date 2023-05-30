@@ -1,0 +1,23 @@
+dir:
+total 16
+drwxrwxr-x 2 mohammad mohammad 4096 May 30 20:42 f
+drwxrwxr-x 2 mohammad mohammad 4096 May 30 20:42 ff
+drwxrwxr-x 2 mohammad mohammad 4096 May 30 20:42 fff
+drwxrwxr-x 2 mohammad mohammad 4096 May 30 20:42 ffff
+-rw-rw-r-- 1 mohammad mohammad    0 Oct 17  2022 file1
+-rw-rw-r-- 1 mohammad mohammad    0 Oct 17  2022 file2
+-rw-rw-r-- 1 mohammad mohammad    0 Oct 17  2022 file3
+-rw-rw-r-- 1 mohammad mohammad    0 Oct 17  2022 file4
+-rw-rw-r-- 1 mohammad mohammad    0 Oct 17  2022 file5
+
+dir/f:
+total 0
+
+dir/ff:
+total 0
+
+dir/fff:
+total 0
+
+dir/ffff:
+total 0
