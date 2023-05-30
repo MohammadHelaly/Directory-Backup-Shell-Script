@@ -11,10 +11,13 @@
 ## Dependencies
   - The script will only run on a Linux environment, make sure ypu have a Linux O.S. installed.
   - You must have "make" installed, if you do not, you can install it by typing the following command:
+
         ```
         sudo apt install make
         ```
-    or    
+        
+    or
+
         ```
         sudo apt install build-essentials
         ```
