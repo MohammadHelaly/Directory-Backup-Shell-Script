@@ -11,11 +11,9 @@
 ## Dependencies
   - The script will only run on a Linux environment, make sure ypu have a Linux O.S. installed.
   - You must have "make" installed, if you do not, you can install it by typing the following command:
-        ```bash
         sudo apt install make
-        ```
     or    
-        ```bash
+        ```
         sudo apt install build-essentials
         ```
 
@@ -23,15 +21,15 @@
   - insert the all the files in the parent directory containing the directory you want to backup.
   - make sure you create a dedicated destination directory for the backups in the same parent directory.
   - make the "backup.sh" executable with the following command:
-        ```bash
+        ```
         chmod +x backup.sh
         ```
   - run the following command:
-        ```bash
+        ```
         make
         ```
   - or you can run the script and specify the arguments directly
-        ```bash
+        ```
         ./backup.sh dir backupdir interval maxbackups
         ```
   - the folllowing arguments are entered:
